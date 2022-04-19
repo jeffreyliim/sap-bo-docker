@@ -1,0 +1,5 @@
+FICO =
+ (DESCRIPTION=
+   (ADDRESS=(PROTOCOL = TCP )(HOST= your.domain.com)(PORT= 1521))
+   (CONNECT_DATA= (SERVICE_NAME=FICO ))
+  )
